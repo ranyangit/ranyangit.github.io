@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a second-year PhD student at the Computer Science Department, HKUST. My research interests include machine learning systems, large language models (LLM), generative inference, and LLM pre-training. Before joining to HKUST, I was an undergraduate at Peking University.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Binhang Yuan]([https://www.XXX.com/](https://binhangyuan.github.io/site/)) of Relaxed System Lab from HKUST.
 
