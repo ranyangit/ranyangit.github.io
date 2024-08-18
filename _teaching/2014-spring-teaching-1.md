@@ -3,7 +3,7 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course 4901Y"
 permalink: /teaching/2014-spring-teaching-1
-venue: "CSE, HkUST"
+venue: "CSE, HKUST"
 date: 2023-09-01
 location: "HK"
 ---
