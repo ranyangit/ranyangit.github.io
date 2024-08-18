@@ -1,11 +1,11 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course 4901Y"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "CSE, HkUST"
+date: 2023-09-01
+location: "HK"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
