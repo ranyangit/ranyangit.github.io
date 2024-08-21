@@ -43,4 +43,4 @@ Teaching
 
 Hobbies
 ======
-* In my spare time, I enjoy investing on financial markets. Investment is a marathon, which is the same as my research.  
+* In my spare time, I enjoy investing on financial markets. *"Investment is a marathon, which is the same as my research."*
