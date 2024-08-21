@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "mstile-144x144.png"
   name             : "Yan, Ran"
-  pronouns         : "Him"  
+  pronouns         : # "Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "HK"
   employer         : "HKUST"
@@ -259,7 +259,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
