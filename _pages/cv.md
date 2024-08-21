@@ -11,40 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in The Hong Kong University of Science and Technology, 2027 (expected)
-* B.S. in Peking University, 2023
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Computer Science, The Hong Kong University of Science and Technology, 2027 (expected)
+* B.S. in Biomedical Engineering & Economics(double major), Peking University, 2023
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Work experience
+======
+* NLP Research at ZK Space (2023.05-2023.09) 
+  * Research and design event driven trading strategy
+  
+Skills
+======
+* Programming: Python, Shell, C++, Vim, Docker, etc.
   
 Talks
 ======
