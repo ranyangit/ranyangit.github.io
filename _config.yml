@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Info"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Yan, Ran"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "mstile-144x144.png"
   name             : "Yan, Ran"
-  pronouns         : "Shim"  
+  pronouns         : "Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "HK"
   employer         : "HKUST"
