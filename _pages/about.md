@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### Hi!
+# Hi!
 
 I'm a second-year PhD student at the Computer Science Department, HKUST. My research interests include machine learning systems, large language models (LLM), generative inference, and LLM pre-training. Before joining to HKUST, I was an undergraduate at Peking University.
 
