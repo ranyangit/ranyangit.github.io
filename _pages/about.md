@@ -13,5 +13,5 @@ I'm a second-year PhD student at the Computer Science Department, HKUST. My rese
 
 I am very fortunate to be advised by [Prof. Binhang Yuan](https://binhangyuan.github.io/site/) of Relaxed System Lab from HKUST. My supervisor is always rigorous and energetic. 
 
-For more information about my publications, cv, etc., please check out corresponding pages.
+For more information about my publications, CV, etc., please check out corresponding pages.
 
