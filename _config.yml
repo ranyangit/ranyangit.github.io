@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mstile-144x144.png"
+  avatar           : "temp_photo.jpg"
   name             : "Yan, Ran"
   pronouns         : # "Him"  
   bio              : # "Short biography for the left-hand sidebar"
