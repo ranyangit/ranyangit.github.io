@@ -40,3 +40,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Hobbies
+======
+* In my spare time, I enjoy investing on financial markets. Investment is a marathon, which is the same as my research.  
