@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2025-01-01
-venue: 'International Conference on Learning Representations (ICLR)'
+venue: 'Published in International Conference on Learning Representations (ICLR)'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Youhe Jiang*, <b>Ran Yan*</b>, and Binhang Yuan'
 ---
