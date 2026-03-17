@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2026-04-13
-venue: 'Machine Learning and Systems (MLSys)'
+venue: 'To appear in Machine Learning and Systems (MLSys)'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
 citation: '<b>Ran Yan*</b>, Youhe Jiang*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and Binhang Yuan'
 ---
